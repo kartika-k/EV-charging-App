@@ -24,7 +24,7 @@ Features🌟
 
   ## Getting Started 🚀
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/kartika-k/EV-charging-App.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
 
